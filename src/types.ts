@@ -3,6 +3,9 @@ import React from 'react';
 export interface Project {
   title: string;
   description: string;
+  link?: string;
+  appstore?: string;
+  playstore?: string;
   tags: string[];
   icon?: string;
 }
