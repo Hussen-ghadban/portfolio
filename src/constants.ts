@@ -1,5 +1,5 @@
-import { Project, SkillCategory, SocialLink } from './types';
 import { Mail, Phone, Github, Linkedin} from 'lucide-react';
+import { type Project, type SkillCategory, type SocialLink } from './types';
 
 export const SKILLS_DATA: SkillCategory[] = [
   {
