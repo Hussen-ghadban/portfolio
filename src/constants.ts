@@ -55,17 +55,17 @@ export const PROJECTS_DATA = [
     icon: Monitor
   },
   {
+    title: "ShardInk Collaborative Notes",
+    description: "Full-stack note-taking platform with real-time collaboration. Users can create workspace as notes, invite collaborators, and work together in real-time.",
+    tags: ["NestJS", "React", "PostgreSQL", "Socket.io", "TypeScript"],
+    icon: PenTool
+  },
+  {
     title: "E-Commerce Website",
     description: "An online store allowing users to browse products, manage shopping carts. Admins can manage products, and update platform settings.",
     link: "https://www.mezhercosmetics.com",
     tags: ["React", "TypeScript", "Tailwind CSS", "Node.js", "Express.js", "Prisma", "PostgreSQL", "AWS", "Docker","CI/CD"],
     icon: ShoppingBag
-  },
-  {
-    title: "ShardInk Collaborative Notes",
-    description: "Full-stack note-taking platform with real-time collaboration. Users can create panels, invite collaborators, and work together in real-time.",
-    tags: ["NestJS", "React", "PostgreSQL", "Socket.io", "TypeScript"],
-    icon: PenTool
   },
   {
     title: "Hotel Management System",
